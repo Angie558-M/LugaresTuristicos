@@ -13,7 +13,7 @@ alert("Haz click en aceptar si quieres saber más sobre los lugares turísticos 
 <BODY bgcolor="e7fdd2">
 <PRE>
 
-<center><img src="imagen.jpg" width=300 height=250> </img></center>
+<center><img src="Imagen.jpg" width=300 height=250> </img></center>
 
 
 
